@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic developer passionate about technology and continuous learning. Here's a little more about me:
+Welcome to my GitHub profile! I'm an enthusiastic developer passionate about technology and continuous learning. 
 
-Here are some ideas to get you started:
+Here's a little more about me:
 
 - 🔭 I’m currently working on Web Development and mechine Learning
 - 🌱 I’m currently learning Mechine Leaning & Gen AI
